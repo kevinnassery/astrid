@@ -1,3 +1,4 @@
+## stays
 | in         |  out    | description | city | state |
 |------------|------------|-------------|------|-------|
 | 2023-08-18 | 2023-08-20 | Danner Cabin | Wakhon | MN |
@@ -44,3 +45,42 @@
 | 2024-02-24 | 2024-02-25 | Walmart Parking Lot | Kansas City | MO |
 | 2024-03-03 | 2024-03-04 | Junkyard BrewCo | Fargo | ND |
 | 2024-05-17 | 2024-05-19 | Sakatah St Park | Waterville | MN |
+
+## food
+| name            | location        |   rating   |
+|--------------- -|-----------------|------------|
+| Jupiters Pizza  | Champaign, IL   |            |
+| Uranus Fudge Factory | Uranus, IN |            |
+| Hyperion Coffee | Ypsilanti, MI   |            |
+| Grizzly Peak    | Ann Arbor, MI   |            |
+| Harless and Hugh| Bay City, MI    |            |
+| Pocket Pizza    | Bay City, MI    |            |
+| Gabriel's Cheestake | Ypsilanti, MI |          |
+| Bill's Drive in | Ypsilanti, MI  |             |
+| Ambassador Restaurant | Houghton, MI |         |
+| Porky's Outpost | Ontanogon, MI   |            |
+| Randall Bakery  | Wakefield, MI   |            |
+| Big Bens Gyros Pita Planet | Ashland, WI       |
+| Roy's Squeeze Inn | Houghton, MI |            |
+| Dreamland       | Dripping Springs, TX |       |
+| Petosky Brewing | Petosky, MI     |            | 
+| Beards Brewing  | Petosky, MI     |            |
+| Miners Pasties  | Munisign, MI    |            |
+| Iron John Brewing | Tucson, AZ     |           |
+| Throne Brewing  | Glendale, AZ     |           |
+| Mother Road Brewing | Flagstaff, AZ |          |
+| Wren House Brewing | Prescott, AZ  |           |
+| LazyG Brewing   | Prescott, AZ     |           |
+| Gramophone    | St. Louis, MO |                |
+| The Hammery | Murfreesboro, TN |                |
+| Buckee's    | Georgia          |               |
+| Mayday Brewery | Murfreesboro, TN |            |
+| Brass Horn Coffee Roasters | Murfreesboro, TN |     |       
+| Taqueria el Mariachi | Port Solerno, GL       |    |
+| Cafe Du Mond    | New Orleans, LA  |            |
+| Felix's | New Orleans, LA |
+| Carousel (Sazerac)  | New Orleans, LA | |
+| Fountain Lounge | NOLA 
+| Turkey and the Wolf | NOLA
+| Ramos Gin Fizz | 
+| French 75 | 
