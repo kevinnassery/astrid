@@ -45,6 +45,21 @@
 | 2024-02-24 | 2024-02-25 | Walmart Parking Lot | Kansas City | MO |
 | 2024-03-03 | 2024-03-04 | Junkyard BrewCo | Fargo | ND |
 | 2024-05-17 | 2024-05-19 | Sakatah St Park | Waterville | MN |
+| 2024-06-28 | 2024-06-30 | Crow Wing St Park | Brainerd | MN |
+| 2024-08-30 | 2024-08-31 | Leach Cabin | Long Lake (rice lake) | WI |
+| 2024-09-01 | 2024-09-02 | Tahquamenon Falls River Mouth St Camp (SM-28)| Paradise | MI |
+| 2024-09-02 | 2024-09-03 | Tenacity Brewing (HH)  | Flint | MI |
+| 2024-09-03 | 2024-09-04 | Aeonian Brewing (HH) | Alliance | OH | 
+| 2024-09-04 | 2024-09-07 | French Creek St Park | Elverson | PA |
+| 2024-09-07 | 2024-09-10 | Aloft Airport Philidalphia | Philidalphia | PA |
+| 2024-09-10 | 2024-09-14 | Shirine's House | Avon | CT |
+| 2024-09-14 | 2024-09-16 | Mom's house | Amherst | NH |
+| 2024-09-16 | 2024-09-20 | Seawall Campground Acadia | Southwest Harbor | ME |
+| 2024-09-20 | 2024-09-22 | Trav's House | Halowell | ME |
+| 2024-09-22 | 2024-09-23 | Sagadahoc Bay Camp | Georgetown | ME |
+| 2024-09-23 | 2024-09-26 | Mom's House | Amherst | NH |
+| 2024-09-26 | 2024-09-27 | Eastbound Area Resttop (hw 30 off of US 71) | Mansfield | OH |
+| 2024-09-27 | 2024-09-29 | Dop's House | Champaign | IL |
 
 ## food
 | name            | location        |   rating   |
@@ -80,7 +95,15 @@
 | Cafe Du Mond    | New Orleans, LA  |            |
 | Felix's | New Orleans, LA |
 | Carousel (Sazerac)  | New Orleans, LA | |
-| Fountain Lounge | NOLA 
-| Turkey and the Wolf | NOLA
-| Ramos Gin Fizz | 
-| French 75 | 
+| Fountain Lounge | NOLA | |
+| Turkey and the Wolf | NOLA ||
+| Ramos Gin Fizz | NOLA ||
+| French 75 | NOLA ||
+| Tenacity Brewing | Flint, MI ||
+| Aoenian BRewing | Alliance, OH ||
+| Angelo's | Philidalphia, PA ||
+| Grace & Proper | Philidalphia, PA ||
+| Miller's Twist | Philidalphia, PA ||
+| Donut Beiler | Philidalphia, PA ||
+
+
