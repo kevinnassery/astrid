@@ -90,22 +90,22 @@
 | 2024-02-11 | 2024-02-19 | 34.5843809,-111.8856765| {verde_rv}[Verde Ranch RV Resort]      | 5   | Nice ammenities
 | 2024-02-19 | 2024-02-23 | 32.2206542,-111.1467906| {gilbert}[Gilbert Campground Tuscon,AZ]| 5   | repeat near Tuscon site 15
 | 2024-02-23 | 2024-02-24 | 35.1591291,-106.5799798| {starbros}[Star Brothers Brewery]      | 3   | harvet host brewery near ABQ
-| 2024-02-24 | 2024-02-25 | 39.0861444,-94.8782993 | {kansascity_walmart}Walmart near KC    | 2   | Fine, no other overnighters
-| 2024-03-03 | 2024-03-04 | 46.8762547,-96.7565179 | {junkyard}Junkyard Brewing in Moorhead | 3   | Kevin bringing the van for maintenance
-| 2024-05-17 | 2024-05-19 | 44.2189826,-93.5318493 | {sakatah}Sakatah Lake Campground       | 3   | MN camping group
-| 2024-06-28 | 2024-06-30 | 46.2728199,-94.332072  | {crowwing}Crow Wing St. Park           | 3   | MN camping group 
-| 2024-08-30 | 2024-08-31 | 45.704615,-91.6722554  | {leachcabin}Leach Cabin on Long Lake   | -   | 200% laborday weekend
-| 2024-09-01 | 2024-09-02 | 46.5562704,-85.035522  | {rivermouth} Taq Falls Rivermouth Camp.| 4   | nice facilities (site R135)
-| 2024-09-02 | 2024-09-03 | 43.0154715,-83.6996471 | {tenacity}Tenacity Brewing Flint, MI   | 4   | good beer, nice vibe
-| 2024-09-03 | 2024-09-04 | 40.9005214,-81.1121852 | {aeonian}Aeonian Brewing Alliance, OH  | 3   | average food/beer
-| 2024-09-04 | 2024-09-07 | 40.1983178,-75.7954898 | {french_creek}French Creek St. Park    | 3   | PA State Park 60m outside Philly
-| 2024-09-10 | 2024-09-14 | 41.7865765,-72.8959577 | {shirine_house}Shirine's house         | -   | Shirine's driveway
-| 2024-09-16 | 2024-09-20 | 44.2422293,-68.3059952 | {seawall}Seawall Campground Acadia     | 4   | Great beach view, decent facilities
-| 2024-09-20 | 2024-09-22 | 44.2860374,-69.8062121 | {travis_house}Trav's house             | -   | Trav's driveway
-| 2024-09-22 | 2024-09-23 | 43.7724701,-69.761235  | {sagadahoc}Sagadahoc Bay Campground    | 1   | Nice location, terrible facilities
-| 2024-09-23 | 2024-09-25 | 42.982564,-70.831372   | {seacost}Seacoast Camping & RV         | 4   | Clean, drivable to beaches.
-| 2024-09-26 | 2024-09-27 | 42.0094586,-71.2817722 | {mansfield_rest}Mansfield OH Rest Area | 3   | Near 30/& i95 fine rest area
-| 2024-09-27 | 2024-09-29 | 40.172751,-88.2467334  | {dop_house}Dop's house                 | -   | CotC fest 2024
-| 2024-10-10 | 2024-10-11 | 46.4916911,-93.9733214 | {cuyuna}Cuyuna St. Park Portsmout cg   | 5   | Northern lights trip
-| 2024-10-11 | 2024-10-13 | 44.342212,-93.105167   | {nerstrand}Nerstrand Bigwoods St. Park | 4   | MN Camping group
-| 2024-11-09 | 2024-11-10 | 44.2195047,-92.0428113 | {paul_farm}Paul Flies Farm             | -   | Deercamp
+| 2024-02-24 | 2024-02-25 | 39.0861444,-94.8782993 | {kansascity_walmart}[Walmart near KC]  | 2   | Fine, no other overnighters
+| 2024-03-03 | 2024-03-04 | 46.8762547,-96.7565179 | {junkyard}[Junkyard Brewing Moorhead]  | 3   | Kevin bringing the van for maintenance
+| 2024-05-17 | 2024-05-19 | 44.2189826,-93.5318493 | {sakatah}[Sakatah Lake Campground]     | 3   | MN camping group
+| 2024-06-28 | 2024-06-30 | 46.2728199,-94.332072  | {crowwing}[Crow Wing St. Park]         | 3   | MN camping group 
+| 2024-08-30 | 2024-08-31 | 45.704615,-91.6722554  | {leachcabin}[Leach Cabin on Long Lake] | -   | 200% laborday weekend
+| 2024-09-01 | 2024-09-02 | 46.5562704,-85.035522  | {rivermouth}[Taq Falls Rivermouth cg]  | 4   | nice facilities (site R135)
+| 2024-09-02 | 2024-09-03 | 43.0154715,-83.6996471 | {tenacity}[Tenacity Brewing Flint, MI] | 4   | good beer, nice vibe
+| 2024-09-03 | 2024-09-04 | 40.9005214,-81.1121852 | {aeonian}[Aeonian Brewing Alliance, OH]| 3   | average food/beer
+| 2024-09-04 | 2024-09-07 | 40.1983178,-75.7954898 | {french_creek}[French Creek St. Park]  | 3   | PA State Park 60m outside Philly
+| 2024-09-10 | 2024-09-14 | 41.7865765,-72.8959577 | {shirine_house}[Shirine's house]       | -   | Shirine's driveway
+| 2024-09-16 | 2024-09-20 | 44.2422293,-68.3059952 | {seawall}[Seawall Campground Acadia]   | 4   | Great beach view, decent facilities
+| 2024-09-20 | 2024-09-22 | 44.2860374,-69.8062121 | {travis_house}[Trav's house]           | -   | Trav's driveway
+| 2024-09-22 | 2024-09-23 | 43.7724701,-69.761235  | {sagadahoc}[Sagadahoc Bay Campground]  | 1   | Nice location, terrible facilities
+| 2024-09-23 | 2024-09-25 | 42.982564,-70.831372   | {seacost}[Seacoast Camping & RV]       | 4   | Clean, drivable to beaches.
+| 2024-09-26 | 2024-09-27 | 42.0094586,-71.2817722 | {mansfield_rest}[Mansfield rest area]  | 3   | rest area ear US30xi95 
+| 2024-09-27 | 2024-09-29 | 40.172751,-88.2467334  | {dop_house}[Dop's house]               | -   | CotC fest 2024
+| 2024-10-10 | 2024-10-11 | 46.4916911,-93.9733214 | {cuyuna}[Cuyuna St. Park Portsmout cg] | 5   | Northern lights trip
+| 2024-10-11 | 2024-10-13 | 44.342212,-93.105167   | {nerstrand}[Nerstrand Bigwoods]        | 4   | MN Camping group
+| 2024-11-09 | 2024-11-10 | 44.2195047,-92.0428113 | {paul_farm}[Paul Flies Farm]           | -   | Deercamp
