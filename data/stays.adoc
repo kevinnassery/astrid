@@ -1,111 +1,92 @@
-== nights
-:danner_cabin: https://www.google.com/maps/place/985+Lake+Shore+Blvd,+Wahkon,+MN+56386/@46.1271212,-93.5204585,456m/data=!3m2!1e3!4b1!4m6!3m5!1s0x52b3df086e75c9eb:0xe26bdf81fe7f69f7!8m2!3d46.1271212!4d-93.5195516!16s%2Fg%2F11gdkx_rfw?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:farmland_east: https://www.google.com/maps/place/Farmland+Rest+Area+Eastbound/@40.2732117,-88.6762132,1003m/data=!3m2!1e3!4b1!4m6!3m5!1s0x880ca2599e19463f:0x1bc207ed707e6ea9!8m2!3d40.2732117!4d-88.6762132!16s%2Fg%2F1s049rbz4?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:jberry_house: https://www.google.com/maps?sca_esv=fc6c41709a2992ea&output=search&q=1103+harrington+dr+champaign,+il&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkW1DRbm01j6DCVS0r1sTxn7lWrPPt54xvTeoI9jYBmanbcnj_OgzaZVVS-VpZSx-qFEHqnYabC7RVWlSnUkVbVIcjnvW_LjItsAaMOw278F4QjPmO8basKZL2nvlSb2glzv7u6RywsFjPkmz3CfrHOTta6qtjUxZMSMSiGe2R8MIx3tzXIwmj4-zIv_oQnmN9zTwfAKA&entry=mc&ved=1t:200715&ictx=111
-:rmcmaster_house: https://www.google.com/maps/@39.8607491,-86.1030243,3a,75y,117.43h,90t/data=!3m7!1e1!3m5!1sk5Azt8oeordievAwwebxCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3Dk5Azt8oeordievAwwebxCQ%26yaw%3D117.43!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:merk_house: https://www.google.com/maps/@39.6116985,-86.1765998,3a,75y,92.23h,90t/data=!3m7!1e1!3m5!1sA8NQEUuS-Jyic2mjjsXYKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DA8NQEUuS-Jyic2mjjsXYKw%26yaw%3D92.23454!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:six_lakes: https://www.google.com/maps/place/Six+Lakes+Campground/@41.8885426,-84.6104506,17z/data=!3m1!4b1!4m6!3m5!1s0x883d734b6db04f27:0xb9c3131c6218eafe!8m2!3d41.8885426!4d-84.6078757!16s%2Fg%2F1vkxmyn2?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:belleville_i94: https://www.google.com/maps/place/Belleville+Rest+Area/@42.2407238,-83.8744072,11z/data=!4m28!1m20!1m15!4m14!1m6!1m2!1s0x883cb00dd4431f33:0xdb09f94686c8b5e2!2sann+arbor,+mi!2m2!1d-83.7430378!2d42.2808256!1m6!1m2!1s0x883ca86dd9b8faad:0xf9c6f7405f4a3451!2sypsilanti,+mi!2m2!1d-83.6129939!2d42.2411499!2m3!1srest+stops+on+94!3m1!5e2!3m6!1s0x883b575acf8a1177:0x2517d1e7806f0aa5!8m2!3d42.2201421!4d-83.5195708!15sChByZXN0IHN0b3BzIG9uIDk0WhIiEHJlc3Qgc3RvcHMgb24gOTSSAQlyZXN0X3N0b3CaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkNiSEJoUkd4M1JSQULgAQD6AQQIABAd!16s%2Fg%2F11cn5pqkk8?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:port_crescent: https://www.google.com/maps/place/port+crescent+state+park/data=!4m2!3m1!1s0x8826f0444d7a5ee9:0xb62e6932e7d6b2e3?sa=X&ved=1t:155783&ictx=111
-:petoskey: https://www.google.com/maps/place/Petoskey+State+Park/@45.4067167,-84.9110911,17z/data=!3m1!4b1!4m6!3m5!1s0x4d4a83c38905f135:0xa0fa70ca20b2d1d0!8m2!3d45.4067167!4d-84.9085162!16zL20vMGNueTE3?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:mclain: https://www.google.com/maps?num=10&sca_esv=bb4dd1e540929925&output=search&q=mclean+st+park&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkW1DRbm01j6DCVS0r1sTxn7h_rt6mVhwDmwtd3hPZjM8xOYJM4hmmrxWbUY3sD5VWIMokj2y_vGi8fBpFPuBNa8hz4Li0jj_jR95F_P7TRXoz1_1czWVCK2r7AVMe-2AJv68T3e8ks-FkqvSCyKg_VRMpSDaAtUyNGf11siL50Sb-jeqHuPOTj28B3ejbm7-I1baovHQ&entry=mc&ved=1t:200715&ictx=111
-:union_bay: https://www.google.com/maps?num=10&sca_esv=bb4dd1e540929925&output=search&q=union+bay+campground&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkW1DRbm01j6DCVS0r1sTxn7qyFqqwRNXgC_Y_lUOzm3nnDdmqP5SEcCzhACF4YA3isGWC9Lp0J8wcyPNYUzV9-_1S_suYWz-jiJD0moPATSbfEJ7CBGHPHrqpljJxEF8glVkPA7-Jte7qUkkL0bGlhxGOPFIn_0VZ0iGoi5A31lUthSiP_LmraEq_vx6VNQdlI3mBm_w&entry=mc&ved=1t:200715&ictx=111
-:vanna_vans: https://www.google.com/maps/uv?pb=!1s0x52c8cfb5c3d85b35%3A0x863aa39ae61128ee!3m1!7e115!4s%2Fmaps%2Fplace%2Fvanna%2Bvans%2F%4046.8804254%2C-96.9364803%2C3a%2C75y%2C90.27h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sy0aZMho-SmAUKU8HvK2tnw*212e0*214m2*213m1*211s0x52c8cfb5c3d85b35%3A0x863aa39ae61128ee%3Fsa%3DX%26ved%3D2ahUKEwiT8YTN3P-JAxXYkokEHfUPOVEQpx96BAgXEAA!5svanna%20vans%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e2!2sy0aZMho-SmAUKU8HvK2tnw&cr=le_a7&hl=en&ved=1t%3A206134&ictx=111
-:repete: https://www.google.com/maps/place/RePete+Candle+%26+Coffee+Bar/@40.3601341,-91.4341466,15z/data=!4m6!3m5!1s0x87e739f80c8d6223:0xc0e22b16891ecc40!8m2!3d40.3601341!4d-91.4341466!16s%2Fg%2F11t0qbj13p?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:mayday: https://www.google.com/maps/place/Mayday+Brewery/@35.8399585,-86.3989237,17z/data=!3m1!4b1!4m6!3m5!1s0x8863f86a903d8d37:0xe93235f6bb53f36!8m2!3d35.8399585!4d-86.3963434!16s%2Fg%2F1ptwrppvl?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:marion_rest: https://www.google.com/maps/place/Marion+County+Rest+Area,+I-75+Southbound/@29.0958268,-82.2474126,15587m/data=!3m1!1e3!4m29!1m21!1m16!4m15!1m6!1m2!1s0x88e6298d78d7b425:0xb0b0f185fc5dca9e!2sMartin,+Florida+34475!2m2!1d-82.19056!2d29.29361!1m6!1m2!1s0x88dd7132d9cf62ed:0xec350061247c53ac!2sDavenport,+FL!2m2!1d-81.6017417!2d28.1614046!3e0!2m3!1srest+stop!3m1!5e2!3m6!1s0x88e7d676482e40d9:0xb7c7656ca399653d!8m2!3d29.0958268!4d-82.186127!15sCglyZXN0IHN0b3CSAQlyZXN0X3N0b3DgAQA!16s%2Fg%2F1tx8v0tl?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:xmas_house_23: https://www.google.com/maps/place/9016+Hazard+St,+Davenport,+FL+33896/@28.2610535,-81.6521351,17z/data=!3m1!4b1!4m5!3m4!1s0x88dd7af665ef83db:0x35ebfd3493abc422!8m2!3d28.2610535!4d-81.6495548?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:solerno: https://www.google.com/maps/place/Port+Salerno,+FL+34997/@27.1473607,-80.1965054,84m/data=!3m1!1e3!4m6!3m5!1s0x88dedc189d24664f:0x37ec5a0115aadaaf!8m2!3d27.1442168!4d-80.2006014!16zL20vMHJuNGY?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:metairie_ri: https://www.google.com/maps/place/Residence+Inn+New+Orleans+Metairie/@29.9930843,-90.1523495,15z/data=!4m2!3m1!1s0x0:0x35266d9db4e8741f?sa=X&ved=1t:2428&ictx=111
-:denis_house: https://www.google.com/maps/place/5+Weatherstone+Point,+Little+Rock,+AR+72211/@34.7362234,-92.4398715,1047m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87d2a739a6951819:0xfe19c184d9c5d0a2!8m2!3d34.7362234!4d-92.4372912!16s%2Fg%2F11c14hcqpc?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:false_idol: https://www.google.com/maps/place/False+Idol+Brewing/@32.8383713,-97.2097431,15z/data=!4m2!3m1!1s0x0:0x844c3cc0c4079cdb?sa=X&ved=1t:2428&ictx=111
-:twin_coves: https://www.google.com/maps/place/Twin+Coves+Park+and+Campground/@33.0061763,-97.1039707,4274m/data=!3m1!1e3!4m6!3m5!1s0x864dd2db6a405e2b:0x6c7b1b9133f302e7!8m2!3d33.0061763!4d-97.1039707!16s%2Fg%2F1v9gvwg_?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:dream_land: https://www.google.com/maps/place/Dreamland+Dripping+Springs/@30.2074832,-98.1291961,15z/data=!4m2!3m1!1s0x0:0xc6f9b8fd67041681?sa=X&ved=1t:2428&ictx=111
-:elpaso_rest: https://www.google.com/maps/place/Safety+Rest+Area+El+Paso+County+Westbound/@31.5042768,-106.1189123,1086m/data=!3m2!1e3!4b1!4m6!3m5!1s0x86e71282dcc54675:0xcccd060c7bf55b43!8m2!3d31.5042768!4d-106.116332!16s%2Fg%2F11cfbrzgx?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:icebox: https://www.google.com/maps/place/Icebox+Brewing+-+Hatch+Valley+Taproom/@32.6655219,-107.1559705,536m/data=!3m1!1e3!4m10!1m2!2m1!1sicebar+hatch,+nm!3m6!1s0x86dfadf7407291fd:0x216c8b13edc36712!8m2!3d32.6656293!4d-107.1527446!15sChBpY2ViYXIgaGF0Y2gsIG5tWhEiD2ljZWJhciBoYXRjaCBubZIBB2JyZXdlcnngAQA!16s%2Fg%2F11tcv30r6g?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:benson_walmart: https://www.google.com/maps/place/Walmart+Supercenter/@31.9687979,-110.3168922,1081m/data=!3m2!1e3!4b1!4m6!3m5!1s0x86d70296d155b00d:0xfc0cbdb1c2a34a70!8m2!3d31.9687979!4d-110.3143119!16s%2Fm%2F03n_1mc?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:el_pais: https://www.google.com/maps/place/El+Pais+Motel+%26+Campgrounds/@32.1533818,-110.9192212,4315m/data=!3m1!1e3!4m9!3m8!1s0x86d67adb0a8fe133:0x76faf82235ada0ef!5m2!4m1!1i2!8m2!3d32.1533818!4d-110.9192212!16s%2Fg%2F11gb3nzndl?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:gilbert: https://www.google.com/maps/place/Gilbert+Ray+Campground/@32.2206542,-111.1467906,1078m/data=!3m2!1e3!4b1!4m9!3m8!1s0x86d5d926d72071c1:0xf6d4171b5f3f3001!5m2!4m1!1i2!8m2!3d32.2206542!4d-111.1442103!16s%2Fg%2F1tywyc_b?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:tony_house: https://www.google.com/maps/place/11516+E+Running+Deer+Trail,+Scottsdale,+AZ+85262/@33.7407154,-111.8325865,1060m/data=!3m2!1e3!4b1!4m6!3m5!1s0x872b9d358eda7765:0xa0d8c2b189b7f12f!8m2!3d33.7407154!4d-111.8325865!16s%2Fg%2F11c28hp_q5?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:karen_house: https://www.google.com/maps/place/5895+N+Bronco+Ln,+Prescott+Valley,+AZ+86314/@34.628282,-112.3447182,121m/data=!3m1!1e3!4m12!1m5!3m4!2zMzTCsDM3JzQxLjUiTiAxMTLCsDIwJzQwLjEiVw!8m2!3d34.62818!4d-112.34447!3m5!1s0x872d248598fee721:0x3b5f42bbe41182d1!8m2!3d34.6281036!4d-112.3443911!16s%2Fg%2F11c2q750l6?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:indian_coves: https://www.google.com/maps/place/Indian+Cove+Campground,+68917+Indian+Cove+Cir,+Twentynine+Palms,+CA+92277/@34.0954154,-116.165512,2110m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80dac394a552d231:0xa8ba998055121454!8m2!3d34.0947369!4d-116.1594694!16s%2Fg%2F11g65gm1gd?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:ryan_cg: https://www.google.com/maps/place/Ryan+Campground/@33.9830742,-116.1571335,1057m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80dae976c5acdfd1:0xba21a13e0557056b!8m2!3d33.9830742!4d-116.1545532!16s%2Fg%2F1tf7bc_h?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:verde_rv: https://www.google.com/maps/contrib/109536666496439473274/photos/@34.5843809,-111.8856765,1049m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:starbros: https://www.google.com/maps/place/Starr+Brothers+Brewing+Company/@35.1591291,-106.5799798,15z/data=!4m2!3m1!1s0x0:0xfef5571b94841894?sa=X&ved=1t:2428&ictx=111
-:kansascity_walmart: https://www.google.com/maps/place/Walmart+Supercenter/@39.0861444,-94.8782993,3a,60y,335.23h,80.91t/data=!3m7!1e1!3m5!1ssZbPsz8Tm0YdO5EJLuL4fg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.089248884649095%26panoid%3DsZbPsz8Tm0YdO5EJLuL4fg%26yaw%3D335.2344540198312!7i16384!8i8192!4m12!1m5!8m4!1e2!2s113339534324425047239!3m1!1e1!3m5!1s0x87c08f9a2f32ded5:0xaaaac6fe819a8c2d!8m2!3d39.0859261!4d-94.8775105!16s%2Fm%2F03nz_hr?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:junkyard: https://www.google.com/maps/place/Junkyard+Brewing+Company/@46.8762547,-96.7565179,3484m/data=!3m1!1e3!4m6!3m5!1s0x52c8c922dc22ef37:0x651d894c1e5ca263!8m2!3d46.8762547!4d-96.7565179!16s%2Fg%2F1ydwq5d87?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:sakatah: https://www.google.com/maps/place/Sakatah+Lake+State+Park/@44.2189826,-93.5318493,15z/data=!4m2!3m1!1s0x0:0x7ace39f71c2ec022?sa=X&ved=1t:2428&ictx=111
-:crowwing: https://www.google.com/maps/place/Crow+Wing+State+Park/@46.2728199,-94.332072,15z/data=!4m2!3m1!1s0x0:0x14e241cf95606937?sa=X&ved=1t:2428&ictx=111
-:leachcabin: https://www.google.com/maps/place/N1925+Eastside+Rd,+Birchwood,+WI+54817/@45.704615,-91.6722554,890m/data=!3m2!1e3!4b1!4m6!3m5!1s0x52ac5b06347133a9:0x2e5426229eec7f30!8m2!3d45.704615!4d-91.6696751!16s%2Fg%2F11pf8p6dwg?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:rivermouth: https://www.google.com/maps/place/Tahquamenon+Falls+State+Park+Rivermouth+Campgrounds/@46.5562704,-85.035522,15z/data=!4m2!3m1!1s0x0:0xfe76e96787979bc4?sa=X&ved=1t:2428&ictx=111
-:tenacity: https://www.google.com/maps/place/Tenacity+Brewing/@43.0154715,-83.6996471,932m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8823821368a36abf:0xac2c428545f04bc3!8m2!3d43.0154715!4d-83.6970668!16s%2Fg%2F11b6__zx0p?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:aeonian: https://www.google.com/maps/place/Aeonian+Brewing+Co/@40.9005214,-81.1121852,963m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8836b5fe0d6fec11:0x246c17117a1c03ea!8m2!3d40.9005215!4d-81.1073197!16s%2Fg%2F11pbbqfybr?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:french_creek: https://www.google.com/maps/place/French+Creek+State+Park/@40.1983178,-75.7954898,973m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c663171f5b8949:0x7ee5dd07e455886c!8m2!3d40.1983178!4d-75.7929149!16zL20vMGRnbGgw?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:shirine_house: https://www.google.com/maps/place/5+Southgate,+Avon,+CT+06001/@41.7865765,-72.8959577,950m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e7af60a911431d:0x9d57fe11c1613c87!8m2!3d41.7865765!4d-72.8933828!16s%2Fg%2F11c4q18ln0?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:seawall: https://www.google.com/maps/place/Seawall+Campground/@44.2422293,-68.3059952,15z/data=!4m2!3m1!1s0x0:0xc76897a9a1c160c5?sa=X&ved=1t:2428&ictx=111
-:travis_house: https://www.google.com/maps/place/9+Hillcrest+St,+Hallowell,+ME+04347/@44.2860374,-69.8062121,17z/data=!3m1!4b1!4m6!3m5!1s0x4cb2068dfd098c8b:0x3cc67c529d75027!8m2!3d44.2860374!4d-69.8036318!16s%2Fg%2F11f2xh9_06?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:sagadahoc: https://www.google.com/maps/place/Sagadahoc+Bay+Campground/@43.7724701,-69.761235,17z/data=!4m9!3m8!1s0x4cad75fe4a956269:0xe3e5441119db2279!5m2!4m1!1i2!8m2!3d43.7724701!4d-69.7586547!16s%2Fg%2F1tkv9c64?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:seacost: https://www.google.com/maps/place/Sea+Coast+Camping+and+RV+Resort/@42.982564,-70.831372,15z/data=!4m2!3m1!1s0x0:0x94d9f4ed1bd4c144?sa=X&ved=1t:2428&ictx=111
-:mansfield_rest: https://www.google.com/maps/place/Mansfield+Rest+Area/@42.0094586,-71.2817722,17z/data=!3m1!4b1!4m6!3m5!1s0x89e463fd0936066b:0x1005d125efaba80d!8m2!3d42.0094586!4d-71.2791973!16s%2Fg%2F11bx8kvh22?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:dop_house: https://www.google.com/maps/place/5+Mary+Ln,+Champaign,+IL+61822/@40.172751,-88.2467334,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd981d9d703c1:0xbf6bb2b6f422872a!8m2!3d40.172751!4d-88.2441585?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:cuyuna: https://www.google.com/maps/place/Portsmouth+Campground/@46.4916911,-93.9733214,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPoXc0mGKnN86vvTdzBpMnGsDKzPhxFtb1rVH0x!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPoXc0mGKnN86vvTdzBpMnGsDKzPhxFtb1rVH0x%3Dw203-h152-k-no!7i4032!8i3024!4m10!1m2!2m1!1scuyuna+state+park!3m6!1s0x52b6cb191a22a35b:0x853b98d97fbcc357!8m2!3d46.4916911!4d-93.9733214!10e5!16s%2Fg%2F11b5plgpyb?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
-:nerstrand: https://www.google.com/maps/place/Nerstrand+Big+Woods+State+Park/@44.342212,-93.105167,15z/data=!4m2!3m1!1s0x0:0xb8c057b8d82cbd5b?sa=X&ved=1t:2428&ictx=111
-:paul_farm: https://www.google.com/maps/place/18691+County+Rd+14+%2314,+Kellogg,+MN+55945/@44.2195047,-92.0428113,210m/data=!3m1!1e3!4m9!1m2!2m1!1s+18691+East+County+Road+14+18691+East+County+Road+14+Kellogg,+MN+55945Kellogg,+MN+55945!3m5!1s0x87f9ba6dc21c5839:0x445256cc7dfcc4d!8m2!3d44.2190106!4d-92.0429164!15sClYxODY5MSBFYXN0IENvdW50eSBSb2FkIDE0IDE4NjkxIEVhc3QgQ291bnR5IFJvYWQgMTQgS2VsbG9nZywgTU4gNTU5NDVLZWxsb2dnLCBNTiA1NTk0NZIBEGNvbXBvdW5kX3NlY3Rpb27gAQA?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D
+:seawall: https://www.nps.gov/acad/planyourvisit/seawall-campground.htm
+:6lakes: https://www.6lakescampground.com/
+:pcrescent: https://www.michigandnr.com/parksandtrails/Details.aspx?type=SPRK&id=486
+:petoskey: https://www2.dnr.state.mi.us/parksandtrails/Details.aspx?id=483&type=SPRK
+:mclain: https://www.michigan.org/property/mclain-state-park
+:unionbay: https://www2.dnr.state.mi.us/parksandtrails/Details.aspx?id=74&type=SPCG
+:vanna: https://www.vannavans.com/
+:repete: https://www.repetecandles.com/?srsltid=AfmBOopx9bUV76scQPb7mnpmAxm7xPuXgE7CD25NWmrjAzou7XEBbreL
+:mayday: https://maydaybrewery.com/
+:falseidol: https://www.falseidolbrew.com/
+:twincoves: https://www.flowermound.gov/1394/Twin-Coves-Park-and-Campground
+:dreamland: https://dreamland.us/
+:icebox: https://iceboxbrewing.com/hatch-valley-taproom
+:elpais: https://www.instagram.com/elpaismoteltucson/
+:gilbert: https://www.pima.gov/1228/Gilbert-Ray-Campground
+:indiancoves: https://www.nps.gov/jotr/planyourvisit/indian-cove-campground.htm
+:ryan: https://www.nps.gov/jotr/planyourvisit/ryan-campground.htm
+:verde: https://verderanchrvresort.com/?gad_source=1&gclid=CjwKCAiA6aW6BhBqEiwA6KzDc7u_x87FnCyEgac-Fz0aymHMtDZIOYorKXIk98rIOhO9jgKa2oxdiBoCb6IQAvD_BwE
+:starr: https://starrbrothersbrewing.com/
+:junkyard: https://www.junkyardbeer.com/
+:sakatah: https://www.dnr.state.mn.us/state_parks/park.html?id=spk00256#homepage
+:crowwing: https://www.dnr.state.mn.us/state_parks/park.html?id=spk00139#homepage
+:rivermouth: https://www2.dnr.state.mi.us/ParksandTrails/Details.aspx?id=415&type=SPCG  
+:tenacity: https://www.tenacitybrewing.com/
+:aeonian: https://www.aeonianbrewing.com/
+:frenchck: https://pennsylvaniastateparks.reserveamerica.com/camping/french-creek-state-park/r/campgroundDetails.do?contractCode=PA&parkId=880406
+:sagadahoc: https://www.sagbaycamping.com/
+:seacoast: https://www.seacoastcamping.com/ 
+:cuyuna: https://www.dnr.state.mn.us/state_parks/park.html?id=sra00302#homepage
+:nerstrand: https://www.dnr.state.mn.us/state_parks/park.html?id=spk00241#homepage
+
+= stays
 
 |===
-| in         | out        | coordinates            | location                               | 0-5 | description 
-| 2023-08-18 | 2023-08-20 | 46.12712,-93.51937     | {danner_cabin}[danner cabin]           | -   | 2023 wakhon days
-| 2023-09-04 | 2023-09-05 | 40.2732117,-88.6762132 | {farmland_east}[i39 rest stop]         | 3   | in route to champaign
-| 2023-09-05 | 2023-09-07 | 40.0870879,-88.2672356 | {jberry_house}[Josh's house]           | -   | parked at josh's
-| 2023-09-07 | 2023-09-09 | 39.8607491,-86.1030243 | {rmcmaster_house}[Ray's house]         | -   | parked at ray's
-| 2023-09-09 | 2023-09-10 | 39.6116985,-86.1765998 | {merk_house}[Merk's house]             | -   | parked at merk's
-| 2023-09-10 | 2023-09-11 | 41.8885426,-84.6104506 | {six_lakes}[6 lakes campground]        | 2   | kind of sketchy late season cg
-| 2023-09-11 | 2023-09-12 | 42.2407238,-83.8744072 | {belleville_i94}[i94 rest stop]        | 1   | rest stop near yipsilanti
-| 2023-09-12 | 2023-09-15 | 44.0014912,-83.0695884 | {port_crescent}[Port Crescent St. Park]| 5   | site 89
-| 2023-09-12 | 2023-09-16 | 45.4067167,-84.9110911 | {petoskey}[Petoskey St. Park]          | 4   | sites 56,37
-| 2023-09-16 | 2023-09-18 | 47.2332801,-88.6184917 | {mclain}[Mclain St. Park]              | 5   | site 49
-| 2023-09-18 | 2023-09-19 | 46.8198971,-89.6448948 | {union_bay}[Porcupine Mt. Union Bay]   | 3   | site 12
-| 2023-09-24 | 2023-09-25 | 46.8804226,-96.9356169 | {vanna_vans}[Vanna Vans]               | -   | kev at vanna for maitenance
-| 2023-12-20 | 2023-12-21 | 40.3601341,-91.4341466 | {repete}[Repete Coffee]                | 3   | harvest host coffee shop
-| 2023-12-21 | 2023-12-22 | 35.8399585,-86.3989237 | {mayday}[Mayday Brewering (closed)]    | 3   | harvest host brewery
-| 2023-12-22 | 2023-12-23 | 29.0958268,-82.2474126 | {marion_rest}[Marion i75 rest stop]    | 3   | fine for a night
-| 2023-12-23 | 2023-12-30 | 28.2610535,-81.6521351 | {xmas_house_23}[Flies Christmas FL]    | 3   | rental house in gated community
-| 2023-12-30 | 2023-12-31 | 27.147490, -80.196493  | {solerno}[Port Solerno Marina]         | 3   | parking lot by Trent's boat
-| 2023-12-31 | 2024-01-01 | 29.0958268,-82.2474126 | {marion_rest}[Marion i75 rest stop]    | 3   | repeat on northbound side
-| 2024-01-01 | 2024-01-02 | 29.9930843,-90.1523495 | {metairie_ri}[Metairie Residence Inn]  | 3   | parking lot 1 night, hotel 3 nights
-| 2024-01-05 | 2024-01-08 | 34.7362234,-92.4398715 | {denis_house}[Denis's house]           | -   | denis's house in little rock
-| 2024-01-08 | 2024-01-09 | 32.8383713,-97.2097431 | {false_idol}[False Idol Brewing]       | 3   | harvest host brewery
-| 2024-01-09 | 2024-01-13 | 33.0061763,-97.1039707 | {twin_coves}[Twin Coves Campground]    | 3   | site 20 
-| 2024-01-13 | 2024-01-14 | 30.2074832,-98.1291961 | {dream_land}[Dream Land]               | 3   | harvest host pickleball/fun center
-| 2024-01-19 | 2024-01-20 | 31.5042768,-106.1189123| {elpaso_rest}[El Paso i10 rest stop]   | 2   | coyote pack hunting Sarah
-| 2024-01-20 | 2024-01-21 | 32.6655219,-107.1559705| {icebox}[Icebox Brewing in Hatch, NM]  | 5   | good pizza/vibes
-| 2024-01-21 | 2024-01-22 | 31.9687979,-110.3168922| {benson_walmart}[Walmart Benson, AZ]   | 3   | no issues
-| 2024-01-22 | 2024-01-23 | 32.1533818,-110.9192212| {el_pais}[El Pais Hotel/RV]            | 5   | cool vibes
-| 2024-01-23 | 2024-01-30 | 32.2206542,-111.1467906| {gilbert}[Gilbert Campground Tuscon,AZ]| 5   | great CG, no showers site 23
-| 2024-01-31 | 2024-02-01 | 32.1533818,-110.9192212| {el_pais}[El Pais Hotel/RV]            | 5   | repeat El Pais
-| 2024-02-02 | 2024-02-03 | 33.7407154,-111.8325865| {tony_house}[Tony's House]             | -   | tony's driveway in scottsdale
-| 2024-02-03 | 2024-02-05 | 34.628282,-112.3447182 | {karen_house}[Karen's House]           | -   | karen's driveway in prescott valley
-| 2024-02-07 | 2024-02-09 | 34.0954154,-116.165512 | {indian_coves}[Indian Coves Campground]| 5   | Outside of Joshua Tree site 53
-| 2024-02-09 | 2024-02-10 | 33.9830742,-116.1571335| {ryan_cg}[Ryan Campground]             | 4   | Inside Joshua Tree site 23
-| 2024-02-11 | 2024-02-19 | 34.5843809,-111.8856765| {verde_rv}[Verde Ranch RV Resort]      | 5   | Nice ammenities
-| 2024-02-19 | 2024-02-23 | 32.2206542,-111.1467906| {gilbert}[Gilbert Campground Tuscon,AZ]| 5   | repeat near Tuscon site 15
-| 2024-02-23 | 2024-02-24 | 35.1591291,-106.5799798| {starbros}[Star Brothers Brewery]      | 3   | harvet host brewery near ABQ
-| 2024-02-24 | 2024-02-25 | 39.0861444,-94.8782993 | {kansascity_walmart}[Walmart near KC]  | 2   | Fine, no other overnighters
-| 2024-03-03 | 2024-03-04 | 46.8762547,-96.7565179 | {junkyard}[Junkyard Brewing Moorhead]  | 3   | Kevin bringing the van for maintenance
-| 2024-05-17 | 2024-05-19 | 44.2189826,-93.5318493 | {sakatah}[Sakatah Lake Campground]     | 3   | MN camping group
-| 2024-06-28 | 2024-06-30 | 46.2728199,-94.332072  | {crowwing}[Crow Wing St. Park]         | 3   | MN camping group 
-| 2024-08-30 | 2024-08-31 | 45.704615,-91.6722554  | {leachcabin}[Leach Cabin on Long Lake] | -   | 200% laborday weekend
-| 2024-09-01 | 2024-09-02 | 46.5562704,-85.035522  | {rivermouth}[Taq Falls Rivermouth cg]  | 4   | nice facilities (site R135)
-| 2024-09-02 | 2024-09-03 | 43.0154715,-83.6996471 | {tenacity}[Tenacity Brewing Flint, MI] | 4   | good beer, nice vibe
-| 2024-09-03 | 2024-09-04 | 40.9005214,-81.1121852 | {aeonian}[Aeonian Brewing Alliance, OH]| 3   | average food/beer
-| 2024-09-04 | 2024-09-07 | 40.1983178,-75.7954898 | {french_creek}[French Creek St. Park]  | 3   | PA State Park 60m outside Philly
-| 2024-09-10 | 2024-09-14 | 41.7865765,-72.8959577 | {shirine_house}[Shirine's house]       | -   | Shirine's driveway
-| 2024-09-16 | 2024-09-20 | 44.2422293,-68.3059952 | {seawall}[Seawall Campground Acadia]   | 4   | Great beach view, decent facilities
-| 2024-09-20 | 2024-09-22 | 44.2860374,-69.8062121 | {travis_house}[Trav's house]           | -   | Trav's driveway
-| 2024-09-22 | 2024-09-23 | 43.7724701,-69.761235  | {sagadahoc}[Sagadahoc Bay Campground]  | 1   | Nice location, terrible facilities
-| 2024-09-23 | 2024-09-25 | 42.982564,-70.831372   | {seacost}[Seacoast Camping & RV]       | 4   | Clean, drivable to beaches.
-| 2024-09-26 | 2024-09-27 | 42.0094586,-71.2817722 | {mansfield_rest}[Mansfield rest area]  | 3   | rest area ear US30xi95 
-| 2024-09-27 | 2024-09-29 | 40.172751,-88.2467334  | {dop_house}[Dop's house]               | -   | CotC fest 2024
-| 2024-10-10 | 2024-10-11 | 46.4916911,-93.9733214 | {cuyuna}[Cuyuna St. Park Portsmout cg] | 5   | Northern lights trip
-| 2024-10-11 | 2024-10-13 | 44.342212,-93.105167   | {nerstrand}[Nerstrand Bigwoods]        | 4   | MN Camping group
-| 2024-11-09 | 2024-11-10 | 44.2195047,-92.0428113 | {paul_farm}[Paul Flies Farm]           | -   | Deercamp
+| in         | out         | coordinates                                                                                      | location                        |0-5| description 
+| 2023-08-18 | 2023-08-20  | https://www.google.com/maps/search/?api=1&query=46.12712,-93.51937[46.12712,-93.51937]           | danner cabin                    | - | 2023 wakhon days
+| 2023-09-04 | 2023-09-05  | https://www.google.com/maps/search/?api=1&query=40.2732117,-88.6762132[40.2732117,-88.6762132]   | i39S rest stop                  | 3 | 24h bathroom, no issues
+| 2023-09-05 | 2023-09-07  | https://www.google.com/maps/search/?api=1&query=40.0870879,-88.2672356[40.0870879,-88.2672356]   | Josh's house                    | - | street parking at Josh's
+| 2023-09-07 | 2023-09-09  | https://www.google.com/maps/search/?api=1&query=39.8607491,-86.1030243[39.8607491,-86.1030243]   | Ray's house                     | - | driveway parketing at Ray's
+| 2023-09-09 | 2023-09-10  | https://www.google.com/maps/search/?api=1&query=39.6116985,-86.1765998[39.6116985,-86.1765998]   | Merk's house                    | - | driveway parking at Merk's
+| 2023-09-10 | 2023-09-11  | https://www.google.com/maps/search/?api=1&query=41.8885426,-84.6104506[41.8885426,-84.6104506]   | {6lakes}[6 lakes campground]    | 2 | showers ok, late season, weird vibes
+| 2023-09-11 | 2023-09-12  | https://www.google.com/maps/search/?api=1&query=42.2407238,-83.8744072[42.2407238,-83.8744072]   | i94 rest stop                   | 1 | deep metro, lots of odd overnighters
+| 2023-09-12 | 2023-09-15  | https://www.google.com/maps/search/?api=1&query=44.0014912,-83.0695884[44.0014912,-83.0695884]   | {pcrescent}[Port Crescent]      | 5 | MI state park, site 89
+| 2023-09-12 | 2023-09-16  | https://www.google.com/maps/search/?api=1&query=45.4067167,-84.9110911[45.4067167,-84.9110911]   | {petoskey}[Petoskey]            | 4 | MI state park, sites 56 & 37
+| 2023-09-16 | 2023-09-18  | https://www.google.com/maps/search/?api=1&query=47.2332801,-88.6184917[47.2332801,-88.6184917]   | {mclain}[Mclain]                | 5 | MI state park, site 49
+| 2023-09-18 | 2023-09-19  | https://www.google.com/maps/search/?api=1&query=46.8198971,-89.6448948[46.8198971,-89.6448948]   | {unionbay}[Union Bay]           | 3 | MI state park (Porcupine Mts), site 12
+| 2023-09-24 | 2023-09-25  | https://www.google.com/maps/search/?api=1&query=46.8804226,-96.9356169[46.8804226,-96.9356169]   | {vanna}[Vanna Vans]             | - | took van in for maitenance
+| 2023-12-20 | 2023-12-21  | https://www.google.com/maps/search/?api=1&query=40.3601341,-91.4341466[40.3601341,-91.4341466]   | {repete}[Repete Coffee]         | 3 | harvest host coffee shop in Warsaw
+| 2023-12-21 | 2023-12-22  | https://www.google.com/maps/search/?api=1&query=35.8399585,-86.3989237[35.8399585,-86.3989237]   | {mayday}[Mayday Brewring]       | 3 | harvest host brewery (now closed)
+| 2023-12-22 | 2023-12-23  | https://www.google.com/maps/search/?api=1&query=29.0958268,-82.2474126[29.0958268,-82.2474126]   | Marion i75 rest stop            | 3 | 24h bathroom, snake signs
+| 2023-12-23 | 2023-12-30  | https://www.google.com/maps/search/?api=1&query=28.2610535,-81.6521351[28.2610535,-81.6521351]   | Flies Christmas FL              | 3 | rental house in gated community
+| 2023-12-30 | 2023-12-31  | https://www.google.com/maps/search/?api=1&query=27.147490,-80.196493[27.147490,-80.196493]       | Port Solerno Marina             | 3 | parking lot by Trent's boat
+| 2023-12-31 | 2024-01-01  | https://www.google.com/maps/search/?api=1&query=29.0958268,-82.2474126[29.0958268,-82.2474126]   | Marion i75 rest stop            | 3 | repeat on northbound side
+| 2024-01-01 | 2024-01-02  | https://www.google.com/maps/search/?api=1&query=29.9930843,-90.1523495[29.9930843,-90.1523495]   | Metairie Residence Inn          | 3 | parkinglot 1 night, room for 3 nights
+| 2024-01-05 | 2024-01-08  | https://www.google.com/maps/search/?api=1&query=34.7362234,-92.4398715[34.7362234,-92.4398715]   | Denis's house                   | - | denis's house in littlerock
+| 2024-01-08 | 2024-01-09  | https://www.google.com/maps/search/?api=1&query=32.8383713,-97.2097431[32.8383713,-97.2097431]   | {falseidol}[False Idol Brewing] | 3 | harvest host, dogs allowed
+| 2024-01-09 | 2024-01-13  | https://www.google.com/maps/search/?api=1&query=33.0061763,-97.1039707[33.0061763,-97.1039707]   | {twincoves}[Twin Coves]         | 3 | muncipal camp ground, site20
+| 2024-01-13 | 2024-01-14  | https://www.google.com/maps/search/?api=1&query=30.2074832,-98.1291961[30.2074832,-98.1291961]   | {dreamland}[DreamLand]          | 3 | harvest host, minigolf/pickle/sports bar 
+| 2024-01-19 | 2024-01-20  | https://www.google.com/maps/search/?api=1&query=31.5042768,-106.1189123[31.5042768,-106.1189123] | El Paso i10 reststop            | 2 | ok rest area, wild coyotes
+| 2024-01-20 | 2024-01-21  | https://www.google.com/maps/search/?api=1&query=32.6655219,-107.1559705[32.6655219,-107.1559705] | {icebox}[Icebox Brewing]        | 5 | harvest host good pizza, great vibes
+| 2024-01-21 | 2024-01-22  | https://www.google.com/maps/search/?api=1&query=31.9687979,-110.3168922[31.9687979,-110.3168922] | Walmart                         | 3 | no issues open until 11pm
+| 2024-01-22 | 2024-01-23  | https://www.google.com/maps/search/?api=1&query=32.1533818,-110.9192212[32.1533818,-110.9192212] | {elpais}[El Pais Hotel/RV]      | 5 | cool vibes, 2 showers, maybe ~60 people capacity
+| 2024-01-23 | 2024-01-30  | https://www.google.com/maps/search/?api=1&query=32.2206542,-111.1467906[32.2206542,-111.1467906] | {gilbert}[Gilbert Ray]          | 5 | county campground adjacent to Saguaro, no showers
+| 2024-01-31 | 2024-02-01  | https://www.google.com/maps/search/?api=1&query=32.1533818,-110.9192212[32.1533818,-110.9192212] | {elpais}[El Pais Hotel/RV]      | 5 | repeat, went direct with camp host for $20/night
+| 2024-02-02 | 2024-02-03  | https://www.google.com/maps/search/?api=1&query=33.7407154,-111.8325865[33.7407154,-111.8325865] | Tony's House                    | - | tony's driveway in scottsdale
+| 2024-02-03 | 2024-02-05  | https://www.google.com/maps/search/?api=1&query=34.628282,-112.3447182[34.628282,-112.3447182]   | Karen's House                   | - | karen's driveway in prescott valley 
+| 2024-02-07 | 2024-02-09  | https://www.google.com/maps/search/?api=1&query=34.0954154,-116.165512[34.0954154,-116.165512]   | {indiancoves}[Indian Coves]     | 5 | national park managed campground, Joshua Tree site 53 
+| 2024-02-09 | 2024-02-10  | https://www.google.com/maps/search/?api=1&query=33.9830742,-116.1571335[33.9830742,-116.1571335] | {ryan}[Ryan]                    | 4 | national park managed campground, Joshua Tree site 23 
+| 2024-02-11 | 2024-02-19  | https://www.google.com/maps/search/?api=1&query=34.5843809,-111.8856765[34.5843809,-111.8856765] | {verde}[Verde Ranch RVResort]   | 5 | pool, hot tubs, business center, laundy/etc
+| 2024-02-19 | 2024-02-23  | https://www.google.com/maps/search/?api=1&query=32.2206542,-111.1467906[32.2206542,-111.1467906] | {gilbert}[Gilbert Ray]          | 5 | repeat stay
+| 2024-02-23 | 2024-02-24  | https://www.google.com/maps/search/?api=1&query=35.1591291,-106.5799798[35.1591291,-106.5799798] | {starr}[Starr Brothers Brewery] | 3 | harvet host brewery near ABQ
+| 2024-03-03 | 2024-03-04  | https://www.google.com/maps/search/?api=1&query=46.8762547,-96.7565179[46.8762547,-96.7565179]   | {junkyard}[Junkyard Brewing]    | 3 | harvest host brewery in Moorhead 
+| 2024-02-24 | 2024-02-25  | https://www.google.com/maps/search/?api=1&query=39.0861444,-94.8782993[39.0861444,-94.8782993]   | Walmart                         | 2 | no issues, didn't see other overnighters
+| 2024-05-17 | 2024-05-19  | https://www.google.com/maps/search/?api=1&query=44.2189826,-93.5318493[44.2189826,-93.5318493]   | {sakatah}[Sakatah Lake]         | 3 | MN camping group (heavy ticks)
+| 2024-06-28 | 2024-06-30  | https://www.google.com/maps/search/?api=1&query=46.2728199,-94.332072[46.2728199,-94.332072]     | {crowwing}[Crow Wing]           | 3 | MN camping group (heavy ticks)
+| 2024-08-30 | 2024-08-31  | https://www.google.com/maps/search/?api=1&query=45.704615,-91.6722554[45.704615,-91.6722554]     | Leach Cabinon Long Lake         | - | 200% labor day weekend
+| 2024-09-01 | 2024-09-02  | https://www.google.com/maps/search/?api=1&query=46.5562704,-85.035522[46.5562704,-85.035522]     | Taq Falls Rivermouth            | 4 | single night overnight, nice facilities
+| 2024-09-02 | 2024-09-03  | https://www.google.com/maps/search/?api=1&query=43.0154715,-83.6996471[43.0154715,-83.6996471]   | Tenacity Brewing                | 4 | goodbeer, nice vibes, dogs welcome inside
+| 2024-09-03 | 2024-09-04  | https://www.google.com/maps/search/?api=1&query=40.9005214,-81.1121852[40.9005214,-81.1121852]   | Aeonian Brewing                 | 3 | average food/beer, near college campus
+| 2024-09-04 | 2024-09-07  | https://www.google.com/maps/search/?api=1&query=40.1983178,-75.7954898[40.1983178,-75.7954898]   | French Creek St. Park           | 3 | lots of hiking, 60m outside Philly
+| 2024-09-10 | 2024-09-14  | https://www.google.com/maps/search/?api=1&query=41.7865765,-72.8959577[41.7865765,-72.8959577]   | Shirine's house                 | - | Shirine's driveway
+| 2024-09-16 | 2024-09-20  | https://www.google.com/maps/search/?api=1&query=44.2422293,-68.3059952[44.2422293,-68.3059952]   | {seawall}[Seawall Campground]   | 4 | Fantastic sea view, kind of far from most of Acadia 
+| 2024-09-20 | 2024-09-22  | https://www.google.com/maps/search/?api=1&query=44.2860374,-69.8062121[44.2860374,-69.8062121]   | Trav's house                    | - | Trav's driveway
+| 2024-09-22 | 2024-09-23  | https://www.google.com/maps/search/?api=1&query=43.7724701,-69.761235[43.7724701,-69.761235]     | {sahadahoc}[Sagadahoc Ba]       | 1 | Nice geography, facilities were awful, one night only
+| 2024-09-23 | 2024-09-25  | https://www.google.com/maps/search/?api=1&query=42.982564,-70.831372[42.982564,-70.831372]       | {seacoast}[Sea Coast RV]        | 4 | Clean, good facilities, short drive to beaches
+| 2024-09-26 | 2024-09-27  | https://www.google.com/maps/search/?api=1&query=42.0094586,-71.2817722[42.0094586,-71.2817722]   | Mansfield rest area             | 3 | rest area near US30 and i95
+| 2024-09-27 | 2024-09-29  | https://www.google.com/maps/search/?api=1&query=40.172751,-88.2467334[40.172751,-88.2467334]     | Dop's house                     | - | CotC 2024
+| 2024-10-10 | 2024-10-11  | https://www.google.com/maps/search/?api=1&query=46.4916911,-93.9733214[46.4916911,-93.9733214]   | {cuyuna}[Cuyuna]                | 5 | MN state park (portsouth campgroudn)
+| 2024-10-11 | 2024-10-13  | https://www.google.com/maps/search/?api=1&query=44.342212,-93.105167[44.342212,-93.105167]       | {nerstrand}[Nerstrand Bigwoods] | 4 | MN camping group
+| 2024-11-09 | 2024-11-10  | https://www.google.com/maps/search/?api=1&query=44.2195047,-92.0428113[44.2195047,-92.0428113]   | Paul Flies Farm                 | - | Deer camp
+|===      
+
